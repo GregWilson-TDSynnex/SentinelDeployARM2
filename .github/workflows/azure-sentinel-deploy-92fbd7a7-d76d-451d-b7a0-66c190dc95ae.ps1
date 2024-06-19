@@ -1,4 +1,4 @@
-## Globals ##
+## Globals vars##
 $CloudEnv = $Env:cloudEnv
 $ResourceGroupName = $Env:resourceGroupName
 $WorkspaceName = $Env:workspaceName
